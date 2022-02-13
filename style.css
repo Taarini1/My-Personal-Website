@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-weight:bold;
+    background-color: #1ed9cc;
+}
+
+h1{
+    color:red;
+}
+
+h3{
+    color:tomato;
+    font-size: 35px;
+}
+
+img{
+    width: 450px;
+}
+
+.line{
+width:45px;
+height:9px;
+background-color: black;
+margin: 8px auto;
+}
